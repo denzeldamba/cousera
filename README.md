@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-hi world im denzel hope you are all good.Im learning coding wish me luck
+Hi world im Denzel hope you are all good.Im learning coding wish me luck.I want to give you a preview on git
 
 You can use the [editor on GitHub](https://github.com/denzeldamba/cousera/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
